@@ -1,0 +1,7 @@
+.idea/
+build/
+node_modules/
+datadir/
+*.log
+log/
+.DS_Store
